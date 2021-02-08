@@ -4,6 +4,7 @@ import { BrowserRouter } from 'react-router-dom';
 
 import './index.css';
 import App from './App';
+// import Approute from './components/test/Approute.js'
 
 
 ReactDOM.render(
